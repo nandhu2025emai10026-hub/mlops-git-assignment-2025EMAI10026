@@ -1,4 +1,6 @@
-Name: Nandhu Rajesh N
-Roll Number: 2025EMAI10026
-Course: DSC524 Designing MlOps for Enterprises
-Institute: Your Institute Name
+Name:Nandhu Rajesh N
+Roll Number:2025EMAI10026
+Name of the Course: DSC524 Designing MlOps for Enterprises
+Course Offered in: Jan-June 2026
+Institute:Indian Institute of Information Technology Kottayam
+Date:Feb 1
